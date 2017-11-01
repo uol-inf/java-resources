@@ -4,7 +4,7 @@ The following resources are intended for students taking CO2001, CO2006 and/or C
 
 ## Installation
 
-* [How to install Java](https://www.java.com/en/download/help/download_options.xml): we are using Java 8 in the academic year 17-18.
+* [How to install Java](https://www.java.com/en/download/help/download_options.xml): we are using Java 8.
 
 ## Pluralsight Tutorials
 
